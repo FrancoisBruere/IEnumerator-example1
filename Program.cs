@@ -32,7 +32,7 @@ namespace IEnumerator_example1
 
             unknownCollection = GetCollection(7);
 
-            Console.WriteLine("This was a array<int>");
+            Console.WriteLine("This was an array<int>");
 
             foreach (int num in unknownCollection)
             {
